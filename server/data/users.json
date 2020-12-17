@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Robert",
+        "function": "Software developer",
+        "image": "http://localhost:3000/robert.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dave",
+        "function": "Project manager",
+        "image": "http://localhost:3000/dave.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Emma",
+        "function": "Tester",
+        "image": "http://localhost:3000/emma.jpg"
+    }
+]
