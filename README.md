@@ -8,3 +8,7 @@ Om de vue app te runnen:
 En om vervolgens ook de mock API te runnen:
 
 `npm run serve-api`
+
+Voor een complete handleiding kun je het volgende artikel bekijken: 
+
+https://martoosterveld.nl/een-lokale-mock-api-opzetten-in-node
